@@ -1,3 +1,6 @@
+### Deploy on Initializ
+[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](http://console.dev.initializ.ai/create-app/?clone=https://github.com/facebook/docusaurus&repo_name=docusaurus&description=♾️%20Easy%20to%20maintain%20open%20source%20documentation%20websites.&private=false&github=true)
+
 <div align="center">
   <h1 align="center">
     Docusaurus
